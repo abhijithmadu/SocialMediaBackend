@@ -1,0 +1,14 @@
+{
+  "eslint.enable": true,
+  "eslint.run": "onType",
+  "eslint.alwaysShowStatus": true,
+  "cSpell.words": [
+    "cloudinary",
+    "DPEHPK",
+    "JBSWY",
+    "nonblock",
+    "Notfic",
+    "totp",
+    "unfollow"
+  ]
+}
